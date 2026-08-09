@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Privacy Policy - movie_app</title>
+  <title>Privacy Policy - Dice Rush</title>
 </head>
 <body>
   <h1>Privacy Policy</h1>
