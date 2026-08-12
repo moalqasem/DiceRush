@@ -7,7 +7,8 @@
   <h1>Privacy Policy</h1>
   <p><strong>Effective Date:</strong> August 2026</p>
 
-  <p>Thank you for using <strong>movie_app</strong>.</p>
+  <p>Thank you for using <strong>Dice Rush
+</strong>.</p>
 
   <p>We value your privacy. This application does not collect, store, or share your personal information.</p>
 
